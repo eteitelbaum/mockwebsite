@@ -1,0 +1,33 @@
+---
+title: My first post
+author: Albert Einstein
+date: '2021-03-09'
+slug: []
+categories: []
+tags:
+  - quantum mechanics
+  - parallel worlds
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-03-09T22:58:26-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+This is my first post. I would like it to be about the theory of general relativity. Etc. 
+
+# Section 1
+
+## Subsection 1.1
+
+# Section 2
+
+```{r}
+summary(Orange)
+```
+
